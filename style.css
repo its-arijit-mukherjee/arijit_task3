@@ -1,0 +1,46 @@
+*{
+    background: rgb(255, 103, 103);
+}
+
+.head{
+    color: darkblue;
+}
+
+#bglime, #hmark{
+    background-color:lightcyan;
+}
+
+#hmark{
+    color: red;
+}
+
+p{
+    color: white;
+}
+
+#para{
+    color: green;
+}
+
+#pMark{
+    color: black;
+    font-size: 25px;
+}
+
+ul li:first-child a{
+    color: green;
+    background-color: yellow;
+}
+
+ul li:last-child a{
+    color: blue;
+    background-color: purple;
+}
+
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
